@@ -76,36 +76,6 @@ section {
 }
 
 
-
-
-
-/* footer {
-
-		border: 1px solid black;'
-		
-}
-	.footer1 {
-	grid-area: test1;
-
-	}
-
-	.footer2 {
-grid-area: test2;
-
-	}
-
-	.footer3 {
-		grid-area: test3;
-
-	}
-
-	.footer4 {
-		grid-area: test4;
-
-	} */
-
-
-
 @media screen and (max-width: 1200px) {
     #container {
 		grid-template-columns: repeat(12, 1fr);
